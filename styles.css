@@ -1,0 +1,76 @@
+/* Add some basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Table Styling */
+.animal-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+.animal-table th, .animal-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.animal-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+/* Image Styling */
+.animal-table img {
+    width: 100px; /* Set initial image size */
+    height: auto;
+    border: 2px solid #ddd; /* Add border around images */
+    border-radius: 5px;
+    transition: transform 0.3s ease, width 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Display animal name and enlarge image on hover */
+.animal-table td:hover img {
+    transform: scale(1.5); /* Enlarge the image */
+    width: 200px; /* Enlarge the width on hover */
+}
+
+.animal-table td:hover .name {
+    display: block; /* Display name when image is hovered */
+}
+
+/* Name Styling */
+.animal-table td .name {
+    display: none; /* Hide the name by default */
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Button Styling */
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Bootstrap-specific Overrides (for better button appearance and responsiveness) */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}

@@ -1,0 +1,34 @@
+[
+    {
+      "species": "Dogs",
+      "name": "Rotwailer",
+      "size": "2 ft",
+      "location": "Germany",
+      "image": "assets/images/rotwailer.png"
+    },
+    {
+        "species": "Dogs",
+        "name": "Labrodor",
+        "size": "4 ft",
+        "location": "India",
+        "image": "assets/images/Labrodor.png"
+        
+    },
+    {
+        "species": "Dogs",
+        "name": "German Shepherd",
+        "size": "3 ft",
+        "location": "Germany",
+        "image": "assets/images/germany shepherd.png"
+        
+    },
+    {
+        "species": "Dogs",
+        "name": "Alabai",
+        "size": "3 ft",
+        "location": "Germany",
+        "image": "assets/images/alabai.png"
+
+    }
+]
+  
