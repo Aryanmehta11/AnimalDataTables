@@ -8,7 +8,7 @@ For example, the AnimalTable class was created as a generalized structure, and t
 To render data dynamically, I stored the data in separate JSON files and used asynchronous programming to fetch and render the data in the tables. This asynchronous approach ensures smooth and non-blocking data loading, improving user experience.
 
 ## Future Enhancements:
-# Data Communication: Implement functionality to store data for newly added animals in a JSON file.
-# Database Integration: Switch from using JSON files to a database for better scalability and data persistence.
-# Progressive Web App (PWA): Convert the app into a PWA for offline support and better performance on mobile devices.
-# LocalStorage: Utilize localStorage to persist data locally, so that the data is maintained even after the user refreshes the page. Currently, refreshing resets the data to the original JSON data.
+ Data Communication: Implement functionality to store data for newly added animals in a JSON file.
+ Database Integration: Switch from using JSON files to a database for better scalability and data persistence.
+ Progressive Web App (PWA): Convert the app into a PWA for offline support and better performance on mobile devices.
+ LocalStorage: Utilize localStorage to persist data locally, so that the data is maintained even after the user refreshes the page. Currently, refreshing resets the data to the original JSON data.
