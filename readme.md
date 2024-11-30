@@ -1,6 +1,4 @@
-Here’s a professional and comprehensive structure for your documentation based on your request:
 
----
 
 # **Dynamic Animal Management Tables**
 
@@ -58,6 +56,18 @@ This application is built using an **Object-Oriented Programming (OOP)** approac
    - Each table is initialized with unique attributes like a specific JSON file, table name, sortable fields, and default image URL.
 
 ---
+## **Code References**
+
+1. **Stackoverflow Chats and Discussions (For JS)**:
+   
+
+2. **W3Schools For HTML and CSS**:
+   - Add filters for specific criteria, such as size range or location-based search.
+
+
+
+
+
 
 ## **Potential Enhancements**
 1. **Database Integration**:
@@ -84,6 +94,4 @@ This application is built using an **Object-Oriented Programming (OOP)** approac
 8. **Integration with APIs**:
    - Fetch live animal data from public APIs to keep the information updated dynamically.
 
----
 
-This structure gives a clear overview of your project, its design philosophy, and room for future improvements. Let me know if you’d like me to refine or expand any section!
