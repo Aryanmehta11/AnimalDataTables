@@ -62,7 +62,7 @@ This application is built using an **Object-Oriented Programming (OOP)** approac
    
 
 2. **W3Schools For HTML and CSS**:
-   - Add filters for specific criteria, such as size range or location-based search.
+   
 
 
 
